@@ -41,7 +41,7 @@
 		00FDF44D2AAA4C01003E5DD0 = {
 			isa = PBXGroup;
 			children = (
-				00FDF4582AAA4C01003E5DD0 /* Internship */,
+				00FDF4582AAA4C01003E5DD0 /* Task1 (Number Guessing Game) */,
 				00FDF4572AAA4C01003E5DD0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00FDF4582AAA4C01003E5DD0 /* Internship */ = {
+		00FDF4582AAA4C01003E5DD0 /* Task1 (Number Guessing Game) */ = {
 			isa = PBXGroup;
 			children = (
 				00FDF4592AAA4C01003E5DD0 /* main.cpp */,
 			);
-			path = Internship;
+			path = "Task1 (Number Guessing Game)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
