@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		00FDF45A2AAA4C01003E5DD0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00FDF4592AAA4C01003E5DD0 /* main.cpp */; };
 		00FDF4622AAA4F38003E5DD0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00FDF4612AAA4F38003E5DD0 /* main.cpp */; };
-		00FDF4652AAA53E3003E5DD0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00FDF4642AAA53E3003E5DD0 /* main.cpp */; };
+		00FDF4682AAA5614003E5DD0 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00FDF4672AAA5614003E5DD0 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +28,7 @@
 		00FDF4562AAA4C01003E5DD0 /* Internship */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Internship; sourceTree = BUILT_PRODUCTS_DIR; };
 		00FDF4592AAA4C01003E5DD0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		00FDF4612AAA4F38003E5DD0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		00FDF4642AAA53E3003E5DD0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
+		00FDF4672AAA5614003E5DD0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +45,7 @@
 		00FDF44D2AAA4C01003E5DD0 = {
 			isa = PBXGroup;
 			children = (
-				00FDF4632AAA538B003E5DD0 /* Task4 (TO-DO List) */,
+				00FDF4662AAA55EB003E5DD0 /* Task4 (TO-DO List) */,
 				00FDF4602AAA4EF8003E5DD0 /* Task2 (Simple Calculator) */,
 				00FDF4582AAA4C01003E5DD0 /* Task1 (Number Guessing Game) */,
 				00FDF4572AAA4C01003E5DD0 /* Products */,
@@ -76,10 +76,10 @@
 			path = "Task2 (Simple Calculator)";
 			sourceTree = "<group>";
 		};
-		00FDF4632AAA538B003E5DD0 /* Task4 (TO-DO List) */ = {
+		00FDF4662AAA55EB003E5DD0 /* Task4 (TO-DO List) */ = {
 			isa = PBXGroup;
 			children = (
-				00FDF4642AAA53E3003E5DD0 /* main.cpp */,
+				00FDF4672AAA5614003E5DD0 /* main.cpp */,
 			);
 			path = "Task4 (TO-DO List)";
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 			files = (
 				00FDF4622AAA4F38003E5DD0 /* main.cpp in Sources */,
 				00FDF45A2AAA4C01003E5DD0 /* main.cpp in Sources */,
-				00FDF4652AAA53E3003E5DD0 /* main.cpp in Sources */,
+				00FDF4682AAA5614003E5DD0 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
